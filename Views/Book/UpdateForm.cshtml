@@ -1,0 +1,80 @@
+﻿@model BookVM
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+<form class="form-group" asp-controller="Book" asp-action="Update" method="post" enctype="multipart/form-data">
+
+    <input hidden asp-for="books.id" />
+
+    <div class="form-group">
+        <div class="col-md-10">
+            <label asp-for="books.title">Title</label>
+            <input asp-for="books.title" class="form-control col-5" placeholder="Title" />
+            <span asp-validation-for="books.title"></span>
+        </div>
+    </div>
+
+    <div>
+        <label class="ml-3" asp-for="books.author_id">Authors</label>
+        <select class="form-control custom-select m-2 col-3" asp-for="books.author_id">
+            <option value="">Select One</option>
+            @foreach (var authors in Model.authorList)
+            {
+                <option value=@authors.id>@authors.name</option>
+            }
+        </select>
+    </div>
+
+    <div>
+        <label class="ml-3" asp-for="books.genre_id">Genre</label>
+        <select class="form-control custom-select m-2 col-3" asp-for="books.genre_id">
+            <option value="">Select One</option>
+            @foreach (var genres in Model.genreList)
+            {
+                <option value=@genres.id>@genres.name</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-10">
+            <label asp-for="books.price">Price</label>
+            <input asp-for="books.price" class="form-control col-5" placeholder="Price" />
+            <span asp-validation-for="books.title"></span>
+        </div>
+    </div>
+
+    <div class="ml-3">
+        @if(Model.books.isavailable){
+        <input type="checkbox" asp-for="books.isavailable"  checked/>
+        }else{
+        <input type="checkbox" asp-for="books.isavailable" />
+        }
+        <label asp-for="books.isavailable" class="form-check-label">Is Available</label>
+    </div>
+
+    <div class="form-group mt-3">
+        <div class="col-md-10">
+            <label asp-for="books.description">Description</label>
+            <textarea asp-for="books.description" class="form-control col-5" placeholder="Description"></textarea>
+            <span asp-validation-for="books.description"></span>
+        </div>
+    </div>
+
+    <div class="form-group row w-25 ml-1">
+        <div class="col-sm-10">
+            <div class="custom-file">
+                <input type="file" asp-for="image" accept="image/*" class="form-control custom-file-input" />
+                <label class="custom-file-label">Chose a file....</label>
+                <label>@Model.fileError </label>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group m-4">
+        <button type="submit" class="btn btn-primary">Update</button>
+    </div>
+</form>

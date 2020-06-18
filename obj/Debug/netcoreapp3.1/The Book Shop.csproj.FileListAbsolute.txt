@@ -1,0 +1,129 @@
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\The Book Shop.exe
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\The Book Shop.deps.json
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\The Book Shop.runtimeconfig.json
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\The Book Shop.runtimeconfig.dev.json
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\The Book Shop.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\The Book Shop.pdb
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\The Book Shop.Views.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\The Book Shop.Views.pdb
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.RazorAssemblyInfo.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.RazorAssemblyInfo.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.AssemblyInfoInputs.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.AssemblyInfo.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.TagHelpers.input.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.TagHelpers.output.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.RazorCoreGenerate.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.RazorTargetAssemblyInfo.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.RazorTargetAssemblyInfo.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.Views.pdb
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\staticwebassets\The Book Shop.StaticWebAssets.Manifest.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\staticwebassets\The Book Shop.StaticWebAssets.xml
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.dll
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.pdb
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.genruntimeconfig.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.csproj.CopyComplete
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Book\BookTable.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Book\AddForm.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Book\DeletePopUp.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Book\UpdateForm.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Author\AddForm.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Author\AuthorTable.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Author\DeletePopUp.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Author\Details.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Author\UpdateForm.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Genre\AddForm.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Genre\DeletePopUp.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Genre\GenreTable.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Genre\UpdateForm.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Genre\Details.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.csproj.CoreCompileInputs.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\The Book Shop.MvcApplicationPartsAssemblyInfo.cache
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\DeletePopUp.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\OrdersTable.cshtml.g.cs
+D:\.net Repository\the_book_shop\The Book Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\UpdateForm.cshtml.g.cs

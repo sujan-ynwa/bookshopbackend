@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Orders>
+
+@{
+    ViewData["Title"] = "Orders";
+
+}
+
+<div class="text-center">
+    <table class="table table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>S.N</th>
+                <th>User Name</th>
+                <th>Book Title</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>isDeliverd</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{// for printeing sn number
+                int i = 0;
+                var sn = i;
+                var classDelivered = "";}
+            @foreach (var order in Model)
+            {
+                if (!order.isDelivered)
+                {
+                    classDelivered = "text-danger";
+                }
+                else
+                {
+                    classDelivered = "text-success";
+                }
+                i += 1;
+                sn = i;
+                <tr class="@classDelivered">
+                    <td>
+                        @sn
+                    </td>
+                    <td>
+                        @order.user_name
+                    </td>
+                    <td>
+                        @order.book_title
+                    </td>
+                    <td>
+                        @order.price
+                    </td>
+                    <td>
+                        @order.quantity
+                    </td>
+                    <td>
+                        @order.isDelivered
+                    </td>
+                    <td>
+                        <a asp-controller="Order" asp-action="UpdateForm"
+                           asp-route-id="@order.id" class="btn btn-outline-primary  mb-2">Update</a>
+                        <br />
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+
+
+</div>

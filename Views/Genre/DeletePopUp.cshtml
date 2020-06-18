@@ -1,0 +1,11 @@
+﻿@model Genre
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div>
+    <h3>Are you sure you want to delete @Model.name??</h3>
+    <a asp-controller="Genre" asp-action="DeleteById" asp-route-id="@Model.id" class="btn btn-outline-danger">Confirm</a>
+    <a asp-controller="Genre" asp-action="Table" class="btn btn-outline-success">Cancel</a>
+</div>

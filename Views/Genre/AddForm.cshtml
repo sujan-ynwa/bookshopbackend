@@ -1,0 +1,22 @@
+﻿@model Genre
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+
+<form class="form-group" asp-controller="Genre" asp-action="Add" method="post">
+
+
+    <div class="form-group">
+        <div class="col-md-10">
+            <label asp-for="@Model.name">Name</label>
+            <input asp-for="@Model.name" class="form-control col-5" placeholder="Title" />
+            <span asp-validation-for="@Model.name"></span>
+        </div>
+    </div>
+
+    <div class="form-group m-4">
+        <button type="submit" class="btn btn-primary">Add</button>
+    </div>
+</form>

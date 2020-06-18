@@ -1,0 +1,72 @@
+﻿@model IEnumerable<BookTable>
+
+@{
+    ViewData["Title"] = "List of Users";
+}
+
+<div class="text-center">
+    <a asp-controller="Book" asp-action="AddForm" class="btn btn-outline-primary col-2 m-1">Add New </a>
+    <table class="table table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>S.N</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genre</th>
+                <th>Price</th>
+                <th>Is Avialable</th>
+                <th>Image</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{// for printeing sn number
+                int i = 0;
+                var sn = i; }
+            @foreach (var book in Model)
+            {
+                i += 1;
+                sn = i;
+            <tr>
+                <td>
+                    @sn
+                </td>
+                <td>
+                    @book.title
+                </td>
+                <td>
+                    @book.author
+                </td>
+                <td>
+                    @book.genre
+                </td>
+                <td>
+                    @book.price
+                </td>
+                <td>
+                    @book.isavailable
+                </td>
+                <td>
+                    <img src="~/images/books/@book.image_path"
+                         alt="Images Icons" height="100" width="100" asp-append-version="true" />
+                </td>
+                <td>
+                    <a asp-controller="Book" asp-action="ViewDetail"
+                       asp-route-id="@book.id" class="btn btn-outline-success  mb-2">View</a>
+                    <br />
+                    <a asp-controller="Book" asp-action="UpdateForm"
+                       asp-route-id="@book.id" class="btn btn-outline-primary  mb-2">Update</a>
+                    <br />
+                    <a asp-controller="Book" asp-action="DeletePopUp"
+                       asp-route-id="@book.id" class="btn btn-outline-danger mb-2">Delete</a>
+                </td>
+            </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+
+
+</div>

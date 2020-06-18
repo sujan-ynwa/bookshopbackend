@@ -1,0 +1,25 @@
+﻿@model AuthorVM
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="card align-items-center">
+    <h3 class="card-header bg-dark text-white">Details</h3>
+    <div class="card-body align-content-center">
+        <img src="~/images/authors/@Model.author.image_path" height="300" width="300" />
+        <h4 class="m-3">Name: @Model.author.name</h4>
+        <h4 class="m-3">Books:</h4>
+        <ol>
+            @foreach (var book in Model.books)
+            {
+                <li>@book.title</li>
+            }
+        </ol>
+
+        <a asp-controller="Author" asp-action="UpdateForm" asp-route-id="@Model.author.id" class="btn btn-outline-primary">Update</a>
+        <a asp-controller="Author" asp-action="DeletePopUp" asp-route-id="@Model.author.id" class="btn btn-outline-danger">Delete</a>
+        <a asp-controller="Author" asp-action="Table" class="btn btn-outline-success">Cancel</a>
+    </div>
+
+</div>

@@ -1,0 +1,33 @@
+﻿@model BookTable
+
+@{
+    ViewData["Title"] = "Details";
+
+    var available = "";
+
+    if (Model.isavailable)
+    {
+        available = "Yes";
+    }
+    else
+    {
+        available = "No";
+    }
+}
+
+<div class="card">
+    <h3 class="card-header bg-dark text-white">Details</h3>
+    <div class="card-body">
+        <img src="~/images/books/@Model.image_path" height="500" width="700" />
+        <h4>Title: @Model.title</h4>
+        <h4>Author: @Model.author</h4>
+        <h4>Price: @Model.price</h4>
+        <h4>Genre: @Model.genre</h4>
+        <h4>Is Avialable: @available</h4>
+        <h4>Description: @Model.description</h4>
+        <a asp-controller="Book" asp-action="UpdateForm" asp-route-id="@Model.id" class="btn btn-outline-primary">Update</a>
+        <a asp-controller="Book" asp-action="DeletePopUp" asp-route-id="@Model.id" class="btn btn-outline-danger">Delete</a>
+        <a asp-controller="Book" asp-action="Table" class="btn btn-outline-success">Cancel</a>
+    </div>
+
+</div>
